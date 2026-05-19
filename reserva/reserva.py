@@ -1,5 +1,5 @@
 from excepciones.excepciones import ReservaError
-from clientes.cliente import Cliente
+from clientes.clientes import Cliente
 from servicios.servicios import Servicio
 
 class Reserva:
